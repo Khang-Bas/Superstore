@@ -232,7 +232,7 @@ superstore-dashboard/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/superstore-dashboard.git
+git clone https://github.com/Khang-Bas/superstore-dashboard.git
 cd superstore-dashboard
 
 # 2. Install dependencies
