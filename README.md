@@ -97,7 +97,7 @@ discount = df.groupby("Discount Group")[["Sales", "Profit"]].mean()
 
 ### ❓ Q1: Is revenue and profit trending up or down over time?
 
-![Monthly Sales & Profit Trend](q1_monthly_trend.png)
+![Monthly Sales & Profit Trend](q1_monthly_trend.png) (png in charts folder)
 
 **Findings:**
 - Sales shows a **clear upward trend** from 2014 → 2017, peaking at **$118,448** in November 2017
@@ -112,7 +112,7 @@ discount = df.groupby("Discount Group")[["Sales", "Profit"]].mean()
 
 ### ❓ Q2: Which Sub-Categories are most and least profitable?
 
-![Profit by Sub-Category](q2_subcategory_profit.png)
+![Profit by Sub-Category](q2_subcategory_profit.png) (png in charts folder)
 
 **Loss-making Sub-Categories:**
 
@@ -137,7 +137,7 @@ discount = df.groupby("Discount Group")[["Sales", "Profit"]].mean()
 
 ### ❓ Q3: Which region is performing best?
 
-![Profit by Region](q3_region_profit.png)
+![Profit by Region](q3_region_profit.png) (png in charts folder)
 
 | Region | Sales | Profit | Margin % |
 |---|---|---|---|
@@ -153,7 +153,7 @@ discount = df.groupby("Discount Group")[["Sales", "Profit"]].mean()
 
 ### ❓ Q4: Is discounting destroying profit?
 
-![Profit Margin by Discount Group](q4_discount_impact.png)
+![Profit Margin by Discount Group](q4_discount_impact.png) (png in charts folder)
 
 | Discount Group | Profit Margin % |
 |---|---|
