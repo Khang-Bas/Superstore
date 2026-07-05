@@ -122,7 +122,7 @@ discount["Profit Margin %"] = (discount["Profit"] / discount["Sales"] * 100).rou
 
 ### Q2: Which Sub-Categories are making or losing money?
 
-![Profit by Sub-Category](charts/q2_subcategory.png)
+![Profit by Sub-Category](charts/q2_subcategory_profit.png)
 
 **Loss-making:**
 
@@ -147,7 +147,7 @@ discount["Profit Margin %"] = (discount["Profit"] / discount["Sales"] * 100).rou
 
 ### Q3: Which region is performing best?
 
-![Profit by Region](charts/q3_region.png)
+![Profit by Region](charts/q3_region_profit.png)
 
 | Region | Sales | Profit | Margin % |
 |---|---|---|---|
@@ -163,7 +163,7 @@ discount["Profit Margin %"] = (discount["Profit"] / discount["Sales"] * 100).rou
 
 ### Q4: Is discounting hurting profitability?
 
-![Profit Margin by Discount Level](charts/q4_discount.png)
+![Profit Margin by Discount Level](charts/q4_discount_impact.png)
 
 | Discount Group | Avg Profit Margin % |
 |---|---|
